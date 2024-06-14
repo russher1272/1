@@ -7,3 +7,4 @@ can do you
 665566
 zksyncescame
 #zksyncscam
+#zkscam
