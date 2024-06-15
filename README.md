@@ -8,3 +8,4 @@ can do you
 zksyncescame
 #zksyncscam
 #zkscam
+lz0
