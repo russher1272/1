@@ -9,3 +9,4 @@ zksyncescame
 #zksyncscam
 #zkscam
 lz0
+layer 0 scam ?
