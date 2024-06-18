@@ -11,3 +11,4 @@ zksyncescame
 lz0
 layer 0 scam ?
 zksync bye bye
+985
