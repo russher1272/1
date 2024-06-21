@@ -14,3 +14,4 @@ zksync bye bye
 985
 lyer zero scammer
 hello
+hamster
