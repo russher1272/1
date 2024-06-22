@@ -15,3 +15,4 @@ zksync bye bye
 lyer zero scammer
 hello
 hamster
+del del
