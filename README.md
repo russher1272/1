@@ -24,3 +24,4 @@ artela
 no no
 riddy
 sell
+next day
