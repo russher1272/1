@@ -34,3 +34,4 @@ etherfi
 wild
 join
 moca
+ridi
