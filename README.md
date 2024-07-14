@@ -37,3 +37,4 @@ moca
 ridi
 sardard
 tresury
+hi koskesh
