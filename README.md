@@ -44,3 +44,4 @@ finance
 edite
 tra
 war
+artela
