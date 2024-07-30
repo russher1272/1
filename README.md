@@ -53,3 +53,4 @@ terrrrr
 del dad
 kar
 earn
+zitel ride
