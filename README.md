@@ -54,4 +54,5 @@ del dad
 kar
 earn
 zitel ride
-dmail scammer
+dmailyes 
+yes ok
