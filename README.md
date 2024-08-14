@@ -68,3 +68,4 @@ hamed
 gyuio
 reroll
 check
+havent won
