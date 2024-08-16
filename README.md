@@ -70,3 +70,4 @@ reroll
 check
 havent won
 not eligeble
+salam
