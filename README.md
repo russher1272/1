@@ -71,3 +71,4 @@ check
 havent won
 not eligeble
 salam
+khon
