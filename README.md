@@ -79,3 +79,4 @@ captcha
 rity
 irancell
 hope
+browser
