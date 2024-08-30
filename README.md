@@ -83,3 +83,4 @@ browser
 lanati
 اثقث
 545445
+bot
