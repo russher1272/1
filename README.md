@@ -89,3 +89,4 @@ gm++
 hello
 anchies
 artela
+no internet
