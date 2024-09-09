@@ -93,3 +93,4 @@ no internet
 تخهد
 6262632
 20 min
+ok
