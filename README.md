@@ -94,3 +94,4 @@ no internet
 6262632
 20 min
 ok
+kor
