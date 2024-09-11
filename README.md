@@ -95,3 +95,4 @@ no internet
 20 min
 ok
 kor
+sweese
