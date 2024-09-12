@@ -96,3 +96,4 @@ no internet
 ok
 kor
 sweese
+qui
