@@ -100,3 +100,4 @@ qui
 no code
 655632
 hub
+fuck zksynce
