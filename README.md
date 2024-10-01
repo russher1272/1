@@ -115,3 +115,4 @@ chat
 ever
 more
 auto
+بخسا
