@@ -125,3 +125,4 @@ app
 rewe
 cats
 farm
+artist
