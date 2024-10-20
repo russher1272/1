@@ -133,3 +133,4 @@ ball
 warm
 kor
 bug
+alaki
