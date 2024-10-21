@@ -134,3 +134,4 @@ warm
 kor
 bug
 alaki
+reset
