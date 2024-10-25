@@ -138,3 +138,4 @@ reset
 546
 flag
 hora
+bug
