@@ -146,3 +146,4 @@ share
 gm
 gozo
 serj
+bakht
