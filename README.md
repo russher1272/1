@@ -147,3 +147,4 @@ gm
 gozo
 serj
 bakht
+dis
