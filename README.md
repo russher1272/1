@@ -149,5 +149,4 @@ serj
 bakht
 dis
 plz
-trx
-lab
+hospital
