@@ -150,3 +150,4 @@ bakht
 dis
 plz
 hospital
+ئخامشف
