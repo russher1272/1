@@ -151,3 +151,4 @@ dis
 plz
 hospital
 ئخامشف
+averik
