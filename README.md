@@ -152,3 +152,4 @@ plz
 hospital
 ئخامشف
 averik
+ionik
