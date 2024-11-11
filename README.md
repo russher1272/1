@@ -153,3 +153,4 @@ hospital
 ئخامشف
 averik
 ionik
+btc
