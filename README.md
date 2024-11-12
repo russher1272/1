@@ -154,3 +154,4 @@ hospital
 averik
 ionik
 btc
+next
