@@ -166,3 +166,4 @@ earn
 ذفز
 unstable
 66232
+man
