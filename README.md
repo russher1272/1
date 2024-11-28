@@ -170,3 +170,4 @@ man
 hi
 scam
 goal
+solve
