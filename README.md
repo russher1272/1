@@ -185,3 +185,4 @@ henlo
 nope
 ok
 nexus
+badge
