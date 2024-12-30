@@ -202,3 +202,4 @@ derim
 phone
 role
 karbar
+reset artela?
