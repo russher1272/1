@@ -229,3 +229,4 @@ yftg
 بقثسا
 barg
 darya
+sert
