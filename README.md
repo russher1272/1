@@ -236,3 +236,4 @@ add
 warp
 air
 loty
+sewa
