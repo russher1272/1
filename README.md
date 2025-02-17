@@ -251,3 +251,4 @@ ip
 ai
 air
 airdrop
+every days
