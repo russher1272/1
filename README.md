@@ -270,4 +270,4 @@ reppo
 nago
 chand
 kjhyu
-vip
+viptest
