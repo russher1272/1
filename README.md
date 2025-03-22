@@ -282,3 +282,4 @@ summorize
 gmgmgm
 sytre
 lamma
+haste
