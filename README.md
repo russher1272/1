@@ -287,3 +287,4 @@ summ
 lag
 immmi
 hitre
+gold
