@@ -290,3 +290,4 @@ hitre
 gold
 koliee
 rise
+astar
