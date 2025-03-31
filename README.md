@@ -291,3 +291,4 @@ gold
 koliee
 rise
 astar
+mazare
