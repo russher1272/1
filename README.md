@@ -294,3 +294,4 @@ astar
 mazare
 hatch
 hernel
+fosh
