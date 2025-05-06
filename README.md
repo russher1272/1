@@ -326,3 +326,4 @@ frant
 hatch
 side
 nova
+wallet
