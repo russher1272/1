@@ -330,3 +330,4 @@ wallet
 alibaba
 incentive
 rcade
+vibe
