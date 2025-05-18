@@ -338,3 +338,4 @@ delam
 150
 block
 noch
+zone
