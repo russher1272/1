@@ -339,3 +339,4 @@ delam
 block
 noch
 zone
+aser
