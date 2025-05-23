@@ -343,3 +343,4 @@ aser
 huhuh
 shift
 uhujju
+control
